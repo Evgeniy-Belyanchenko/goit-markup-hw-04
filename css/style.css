@@ -510,7 +510,8 @@ justify-content: center;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
-  
+  margin-bottom: 20px;
+
   color: #FFFFFF;
   
 }
@@ -519,9 +520,7 @@ justify-content: center;
   margin-left: 70px;
 }
 
-.join-title{
-  margin-bottom: 20px;
-}
+
 
 .join-list{
   display: flex;
