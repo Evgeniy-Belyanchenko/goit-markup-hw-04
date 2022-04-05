@@ -520,6 +520,10 @@ justify-content: center;
   margin-left: 70px;
 }
 
+.join-item + .join-item{
+  margin-left: 10px;
+
+}
 
 
 .join-list{
